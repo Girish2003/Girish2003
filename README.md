@@ -2,7 +2,7 @@
 
 Computer Science Student @ R.M.K Engineering College
 <img align="right" width="370" height="290" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
-- 🔭 Here's my [portfolio](https://girish-seven.vercel.app/)                                                 
+- 🔭 Here's my [portfolio](https://girish-portfolio.vercel.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements in FAANG
 - 📫 How to reach me :
